@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Fadlillah
 
-🎓 **Economics Graduate** | 📊 Aspiring Business & Data Analyst | 🚀 Fast Learner | 💡 Tech Enthusiast
+🎓 **Economics Graduate** | 📊 Aspiring Business & Data Analyst | 🚀 Fast Learner | 💡 Web3 and Fintech Sharia Enthusiast
 
 ---
 
