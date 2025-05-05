@@ -45,7 +45,7 @@ Welcome to my GitHub! I'm passionate about translating data into insights, explo
 
 ## 📬 Let’s Connect
 - 📧 dilafadlillah26@gmail.com 
-- 💼 [LinkedIn](www.linkedin.com/in/fadlillah-s-5876482b0)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fadlillah-s-5876482b0)
 - ✍️ [Medium](https://medium.com/@dilafadlillah26)
 
 ---
