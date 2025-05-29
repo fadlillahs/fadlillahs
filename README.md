@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm passionate about translating data into insights, explo
 > A sneak peek of what I’ve worked on — more coming soon!
 
 - [Power BI & Looker Studio](https://github.com/fadlillahs/Laundry-Coin-Analysis.git): *Laundry Coin Mini Project* (Operational & financial insights)
-- **Python Mini Project**: *Simple scripts for analysis & automation*
+- [Python Mini Project](https://github.com/fadlillahs/Manhwa-Analysis): *Simple scripts for analysis & automation*
 - **SQL Project**: *Coming soon – stay tuned!*
 
 ---
